@@ -4,7 +4,7 @@
 
 Generate and download custom QR codes in seconds! This project provides a user-friendly interface for creating QR codes with customizable data and size.  
 
-![QR Code Generator Preview](https://user-images.githubusercontent.com/<your-image-link-id>/qrcode-generator-preview.png)
+![QR Code Generator Preview](Screenshot 2024-12-18 115400.png)
 
 ---
 

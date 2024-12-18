@@ -8,7 +8,7 @@ Generate and download custom QR codes in seconds! This project provides a user-f
 
 ---
 
-## 🚀 [Live Demo](https://geneqrcode.netlify.app/)  
+## 🚀 [Live Demo](https://geneqrcode.netlify.app/) https://geneqrcode.netlify.app/ 
 
 ---
 
